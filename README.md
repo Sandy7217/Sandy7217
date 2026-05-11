@@ -33,34 +33,25 @@
 
 ## 🧠 About Me
 
-```python
-class SandeepRana:
+## 🧠 About Me
 
-    name        = "Sandeep Rana"
-    username    = "Sandy7217"
-    location    = "New Delhi, India 🇮🇳"
-    education   = "BCA — Amity University Online (2nd Semester)"
+```yaml
+name: Sandeep Rana
+role: AI Engineer & Data Scientist
+location: New Delhi, India
 
-    roles       = ["Data Scientist", "AI Engineer", "ML Engineer", "Analytics Engineer"]
+currently:
+  - Building RoboRana AI
+  - Learning Advanced RAG Systems
+  - Exploring Multi-Agent AI
 
-    flagship    = "RoboRana AI — Local-first Multi-Agent AI for E-Commerce"
-
-    currently   = [
-        "Building RoboRana AI (Multi-Agent System with LangChain + RAG + n8n)",
-        "Completing IBM Data Science Professional Certificate",
-        "Studying BCA @ Amity University Online",
-    ]
-
-    expertise   = {
-        "AI / ML"      : ["LangChain", "RAG Architecture", "Multi-Agent Systems", "CNNs", "XGBoost"],
-        "Data Science" : ["Python", "Pandas", "Scikit-learn", "TensorFlow", "SQL"],
-        "Analytics"    : ["Power BI", "Tableau", "Streamlit", "Advanced Excel"],
-        "Infra"        : ["ChromaDB", "n8n", "Ollama", "Git", "Jupyter"],
-    }
-
-    superpower  = "11+ years of e-commerce domain intelligence → now weaponized with AI"
-
-    fun_fact    = "I managed ₹Crores in revenue before I managed model weights 🤖"
+tech_stack:
+  - Python
+  - LangChain
+  - ChromaDB
+  - Power BI
+  - Streamlit
+  - n8n
 ```
 
 ---
