@@ -33,8 +33,6 @@
 
 ## 🧠 About Me
 
-## 🧠 About Me
-
 ```yaml
 name: Sandeep Rana
 role: AI Engineer & Data Scientist
