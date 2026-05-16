@@ -5,20 +5,13 @@
 
 <div align="center">
 
-<!-- HERO BANNER — Use Canva/Figma to create a custom banner image and host on repo -->
-<!-- Suggested banner: dark navy background, teal circuit-board pattern, name + tagline -->
-<!-- Replace the img src below with your actual banner URL after creating it -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D2137,100:0F7173&height=200&section=header&text=Sandeep%20Rana&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20Builder%20of%20Intelligent%20Systems&descAlignY=60&descSize=18&descColor=8ECAE6&animation=fadeIn" width="100%"/>
 
-<!-- ANIMATED TYPING -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0F7173&center=true&vCenter=true&multiline=false&width=700&lines=🤖+Building+Multi-Agent+AI+Systems;📊+Turning+Raw+Data+into+Business+Intelligence;🧠+LangChain+%7C+RAG+%7C+ChromaDB+%7C+n8n;🚀+Creator+of+RoboRana+AI;⚡+11%2B+Years+E-Commerce+Analytics+%7C+Now+in+AI" alt="Typing SVG" />
-</a>
+<!-- ANIMATED TYPING — using SVG service with correct parameters -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0F7173&center=true&vCenter=true&width=700&lines=🤖+Building+Multi-Agent+AI+Systems;📊+Turning+Raw+Data+into+Business+Intelligence;🧠+LangChain+%7C+RAG+%7C+ChromaDB+%7C+n8n;🚀+Creator+of+RoboRana+AI;⚡+11%2B+Years+E-Commerce+Analytics+%7C+Now+in+AI)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- PROFILE VIEWS + FOLLOWERS -->
 <img src="https://komarev.com/ghpvc/?username=Sandy7217&style=for-the-badge&color=0F7173&label=PROFILE+VIEWS" />
 &nbsp;
 <a href="https://github.com/Sandy7217?tab=followers">
@@ -203,12 +196,6 @@ tech_stack:
 
 <img src="https://raw.githubusercontent.com/Sandy7217/Sandy7217/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 
-<!-- 
-  ⚠️ SETUP REQUIRED: To enable the snake animation, create this GitHub Action in your profile repo:
-  Path: .github/workflows/snake.yml
-  Content below ↓
--->
-
 </div>
 
 <details>
@@ -315,7 +302,7 @@ jobs:
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Sandy7217-0F7173?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sandy7217)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0D2137?style=for-the-badge&logo=linkedin&logoColor=0F7173)](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0D2137?style=for-the-badge&logo=linkedin&logoColor=0F7173)](https://linkedin.com/in/sandeep-rana-278a93189)
 
 <br/>
 
