@@ -82,6 +82,25 @@ Production-level full-stack web app for an e-commerce fashion brand. Built to tu
 <table>
   <tr>
     <td colspan="2" valign="top">
+      <h3>Indian Fashion SKU Sales & Returns Forecaster</h3>
+      <p>Production-grade ML pipeline for SKU-level sales and return-rate forecasting in Indian fashion e-commerce. Includes festival-aware demand features, synthetic demo data, a Streamlit app, CLI workflows, pytest coverage, and a generated PDF output report.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Machine%20Learning-FF6B6B?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Forecasting-0077B6?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PDF%20Report-DC382D?style=flat-square&logo=adobeacrobatreader&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Sandy7217/indian-fashion-sales-forecaster">
+        <img src="https://img.shields.io/badge/View%20Repo-%23181717?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+      <a href="https://github.com/Sandy7217/indian-fashion-sales-forecaster/blob/main/reports/output_results.pdf">
+        <img src="https://img.shields.io/badge/View%20PDF%20Results-DC382D?style=flat-square&logo=adobeacrobatreader&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <h3>🏬 E-Commerce BI Platform</h3>
       <p>Production-level full-stack BI platform for fashion marketplace operations. Ingests sales, inventory, returns, ads, and category data, then turns them into executive KPIs, replenishment plans, anomaly alerts, and downloadable reports.</p>
       <p>
